@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "jquery-csv": "^1.0.40"
+  },
+  "name": "masvsal.github.ca",
+  "version": "1.0.0",
+  "main": "populate-table-images.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masvsal/masvsal.github.ca.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masvsal/masvsal.github.ca/issues"
+  },
+  "homepage": "https://github.com/masvsal/masvsal.github.ca#readme",
+  "description": ""
+}

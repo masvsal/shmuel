@@ -11,7 +11,7 @@ tempImg.onload = function(){
     appendImage();
 }
 var tryLoadImage = function( index ){
-    tempImg.src = 'pages/1-gallery/images/2025_boston/' + index + '.JPG';
+    tempImg.src = 'pages/1-gallery/images/' + index + '.JPG';
 }
 var appendImage = function(){
     var img = document.createElement('img');
